@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.algaworks.algasensors.temperature.processing.UUIDv7Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-20T02:24:22.963Z" hostname="Juans-Mac-mini.local" time="0.011">
+  <properties/>
+  <testcase name="shouldTestUUIDv7()" classname="com.algaworks.algasensors.temperature.processing.UUIDv7Test" time="0.011"/>
+  <system-out><![CDATA[UUID 1: 0199ff6e-9bb6-71a6-b821-a77d1d1646fd
+UUID 2: 0199ff6e-9bb7-77e8-bac2-c6d25fe764c9
+UUID 3: 0199ff6e-9bb7-7367-91b7-345993838ce2
+UUID 4: 0199ff6e-9bb7-76ee-b93f-39c2fdcf959b
+UUID val 1: 2025-10-19T21:24:22.966-05:00
+UUID val 2: 2025-10-19T21:24:22.967-05:00
+UUID val 3: 2025-10-19T21:24:22.967-05:00
+UUID val 4: 2025-10-19T21:24:22.967-05:00
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
